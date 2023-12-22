@@ -1,4 +1,5 @@
 # GraphEditor
+![](screenshot.jpg)
 # Simple graphics editor in Python
 
 This simple graphics editor is created using the Tkinter library and the Pillow library for saving images.
